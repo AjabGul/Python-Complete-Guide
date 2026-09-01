@@ -1,6 +1,6 @@
 ### 01-python-fundamentals
 
-- 1: print, string, strng methods and f-formatting of string
+- 1: print, string, stirng methods and f-formatting of string
 - 2: Variables for Strings and Numbers
 - 3: Variables for Numbers
 - 4: Mathmatical Expressions
