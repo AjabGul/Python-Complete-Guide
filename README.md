@@ -16,6 +16,12 @@
 
 ### 03-data-structures/types
 
+- 1: List Data Type
+- 2: Tuple Data type and range Funnction
+- 3: Boolean Data Type, Identity and Membership Operators
+- 4: Dictionary Data Type
+
+
 ### 04-loops
 
 ### 05-user-input-and-strings
